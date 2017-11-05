@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/6D6w1A4.png)
 
-Sintaxis de [Cramel](https://www.cramel.org) ?? para Vim
+Sintaxis de [Cramel](https://www.cramel.org) 🍬 para Vim
 
 
 ---
