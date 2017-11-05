@@ -1,0 +1,1 @@
+au BufNewFile,BufRead *.cml set filetype=cramel
