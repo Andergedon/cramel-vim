@@ -17,3 +17,11 @@ Sintaxis de [Cramel](https://www.cramel.org) ?? para Vim
     Plug 'https://github.com/Andergedon/cramel-vim'
 
 
+## Instalar manualmente
+	
+Copia los archivos
+
+    ftdetect\cramel.vim  =>  ...\vimfiles\ftdetect
+    syntax\cramel.vim   =>   ...\vimfiles\syntax
+
+
