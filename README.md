@@ -12,7 +12,7 @@ Sintaxis de [Cramel](https://www.cramel.org) 🍬 para Vim
 ![](https://i.imgur.com/nA8GGOZ.png)
 
 
-## Instalar con [Plug](https://github.com/junegunn/vim-plug) y [Vundle](https://github.com/VundleVim/Vundle.vim)
+## Instalar con [Plug](https://github.com/junegunn/vim-plug) o [Vundle](https://github.com/VundleVim/Vundle.vim)
 
     Plug 'https://github.com/Andergedon/cramel-vim'
 
